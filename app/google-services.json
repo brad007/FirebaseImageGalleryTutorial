@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204091208247",
+    "firebase_url": "https://fir-gallery-tutorial.firebaseio.com",
+    "project_id": "fir-gallery-tutorial",
+    "storage_bucket": "fir-gallery-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204091208247:android:eb5b053d86a8c330",
+        "android_client_info": {
+          "package_name": "com.software.fire.firebaseimagegallerytutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204091208247-knhngmv6in5l56rtfk6anudk8m6bb6lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP2rl_vw_1GxmmNnQKjWeoKnbfyq1QDXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
